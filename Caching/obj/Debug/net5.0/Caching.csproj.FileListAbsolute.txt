@@ -1,0 +1,15 @@
+D:\Projects\SondaWebAPI\Caching\bin\Debug\net5.0\Caching.deps.json
+D:\Projects\SondaWebAPI\Caching\bin\Debug\net5.0\Caching.dll
+D:\Projects\SondaWebAPI\Caching\bin\Debug\net5.0\Caching.pdb
+D:\Projects\SondaWebAPI\Caching\bin\Debug\net5.0\Models.dll
+D:\Projects\SondaWebAPI\Caching\bin\Debug\net5.0\Models.pdb
+D:\Projects\SondaWebAPI\Caching\obj\Debug\net5.0\Caching.csproj.AssemblyReference.cache
+D:\Projects\SondaWebAPI\Caching\obj\Debug\net5.0\Caching.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SondaWebAPI\Caching\obj\Debug\net5.0\Caching.AssemblyInfoInputs.cache
+D:\Projects\SondaWebAPI\Caching\obj\Debug\net5.0\Caching.AssemblyInfo.cs
+D:\Projects\SondaWebAPI\Caching\obj\Debug\net5.0\Caching.csproj.CoreCompileInputs.cache
+D:\Projects\SondaWebAPI\Caching\obj\Debug\net5.0\Caching.csproj.CopyComplete
+D:\Projects\SondaWebAPI\Caching\obj\Debug\net5.0\Caching.dll
+D:\Projects\SondaWebAPI\Caching\obj\Debug\net5.0\refint\Caching.dll
+D:\Projects\SondaWebAPI\Caching\obj\Debug\net5.0\Caching.pdb
+D:\Projects\SondaWebAPI\Caching\obj\Debug\net5.0\ref\Caching.dll
